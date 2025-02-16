@@ -27,6 +27,8 @@ This project aim to provide insights into the Netflix's catalog and provide an i
 
 -Visualizing the geographical distribution of Netflix content using a map chart.
 
+![Netflix Dashboard](https://github.com/user-attachments/assets/7a4372ae-ef75-4960-87f9-26fa71c85cb1)
+
 ### Data Sources
 
 Netflix Data : The dataset used for this analysis was sourced from **Kaggle**. It contains information about Netflix movies and TV shows including:
