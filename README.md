@@ -12,6 +12,7 @@
 - [References](#references)
   
 ### Project Overview
+---
 
 This project aim to provide insights into the Netflix's catalog and provide an interactive visualization that helps users explore trends in movies and TV shows. Specifically, this dashboard helps in:
 
