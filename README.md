@@ -74,8 +74,8 @@ The interactive Excel dashboard contains:
    - International Movies and Dramas are also among the most featured genres
 - There was a significant rise in content production from 2010 onwards
    - The highest number of releases happened in the late 2010s, showing Netflix's rapid expansion
-- TV-14 is the most frequent rating (1693 titles) , indicating a preference for teen-friendly content
-- The global heatmap shows Netflix content was widely distributed, with North America, Europe, and parts of Asia having a large share
+- TV-14 is the most frequent rating (1693 titles) , indicating a preference for teen-friendly content.
+- The global heatmap shows Netflix content was widely distributed, with North America, Europe, and parts of Asia having a large share.
 
 ### References
 
